@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",LANGUAGE="en",DEFAULT=YES,AUTOSELECT=YES,URI="subs-en.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1588440,SUBTITLES="subs"
+https://cdn.jsdelivr.net/gh/adiytharpansa/xzyar7hxbra5@186884a2a1539463954961bcd80b8d2004be06e7/dr-stone-science-future-cour-2/ep12/playlist.m3u8
