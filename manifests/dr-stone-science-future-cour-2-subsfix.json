@@ -1,10 +1,10 @@
 {
  "wid": "dr-stone-science-future-cour-2-subsfix",
- "anilistId": 189117,
- "name": "Dr. STONE SCIENCE FUTURE Cour 2",
+ "anilistId": 0,
+ "name": "Dr. Stone Science Future Cour 2 (subsfix)",
  "totalEpisodes": 12,
  "repo": "adiytharpansa/x4b5qo5eedit",
- "pin": "81f32fad97de02d16582b9919aaa34ed871502fa",
+ "pin": "0b8b66f07adb8497dc8748178612ed83e4499aa4",
  "subs": {
   "1": [
    "en",
@@ -19,31 +19,40 @@
    "id"
   ],
   "4": [
-   "en"
+   "en",
+   "id"
   ],
   "5": [
-   "en"
+   "en",
+   "id"
   ],
   "6": [
-   "en"
+   "en",
+   "id"
   ],
   "7": [
-   "en"
+   "en",
+   "id"
   ],
   "8": [
-   "en"
+   "en",
+   "id"
   ],
   "9": [
-   "en"
+   "en",
+   "id"
   ],
   "10": [
-   "en"
+   "en",
+   "id"
   ],
   "11": [
-   "en"
+   "en",
+   "id"
   ],
   "12": [
-   "en"
+   "en",
+   "id"
   ]
  }
 }
